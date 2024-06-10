@@ -1,0 +1,29 @@
+[23:37:28.418 - error] <www> server start...
+[23:37:29.368 - error] <cmd> error, code: 210701201918, errno: undefined, msg: "/hmi/bin/projectParser is not exists", stack: "Error: /hmi/bin/projectParser is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\projectParser.js:12:45)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\index.js:9:23)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[23:37:40.915 - error] <ffmpeg> error, code: 20220909, errno: undefined, msg: "/hmi/bin/amrwb-dec is not exists", stack: "Error: /hmi/bin/amrwb-dec is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\ffmpeg.js:12:41)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\components\voice\route.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[23:37:42.049 - error] <ts.voice.startup> rm voice temp error:"ENOENT: no such file or directory, scandir 'C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\data\userData\voiceTemp'"
+[23:37:52.739 - error] <initstat> ""C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\bin\initstat.sh" C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\config\setup.ini MACHINE machine_name Scada" error: {code:1, killed:false, signal:null, cmd:""C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\bin\initstat.sh" C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\config\setup.ini MACHINE machine_name Scada"}
+[23:37:52.740 - error] <initstat> ""C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\bin\initstat.sh" C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\config\setup.ini MACHINE machine_name Scada" stderr: "'"C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\bin\initstat.sh"' is not recognized as an internal or external command,
+operable program or batch file.
+"
+[23:38:07.169 - error] <upload data> request result, path: "/api/tls/picReport", status: 200, res: "{"result":1}"

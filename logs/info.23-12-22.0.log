@@ -1,0 +1,449 @@
+[02:50:19.481 - error] <www> server start...
+[02:50:19.591 - error] <cmd> error, code: 210701201918, errno: undefined, msg: "/hmi/bin/projectParser is not exists", stack: "Error: /hmi/bin/projectParser is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\projectParser.js:12:45)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\index.js:9:23)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[02:50:20.610 - error] <ffmpeg> error, code: 20220909, errno: undefined, msg: "/hmi/bin/amrwb-dec is not exists", stack: "Error: /hmi/bin/amrwb-dec is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\ffmpeg.js:12:41)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\components\voice\route.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[02:50:20.689 - error] <ts.voice.startup> rm voice temp error:"ENOENT: no such file or directory, scandir 'C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\data\userData\voiceTemp'"
+[02:50:23.525 - error] <upload data> request result, path: "/api/tls/picReport", status: 200, res: "{"result":1}"
+[03:02:51.697 - error] <www> server start...
+[03:02:52.024 - error] <cmd> error, code: 210701201918, errno: undefined, msg: "/hmi/bin/projectParser is not exists", stack: "Error: /hmi/bin/projectParser is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\projectParser.js:12:45)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\index.js:9:23)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[03:02:57.008 - error] <ffmpeg> error, code: 20220909, errno: undefined, msg: "/hmi/bin/amrwb-dec is not exists", stack: "Error: /hmi/bin/amrwb-dec is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\ffmpeg.js:12:41)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\components\voice\route.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[03:02:57.433 - error] <ts.voice.startup> rm voice temp error:"ENOENT: no such file or directory, scandir 'C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\data\userData\voiceTemp'"
+[03:03:02.284 - error] <upload data> request result, path: "/api/tls/picReport", status: 200, res: "{"result":1}"
+[03:31:30.194 - error] <www> server start...
+[03:31:30.275 - error] <cmd> error, code: 210701201918, errno: undefined, msg: "/hmi/bin/projectParser is not exists", stack: "Error: /hmi/bin/projectParser is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\projectParser.js:12:45)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\index.js:9:23)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[03:31:30.706 - error] <ffmpeg> error, code: 20220909, errno: undefined, msg: "/hmi/bin/amrwb-dec is not exists", stack: "Error: /hmi/bin/amrwb-dec is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\ffmpeg.js:12:41)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\components\voice\route.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[03:31:30.757 - error] <ts.voice.startup> rm voice temp error:"ENOENT: no such file or directory, scandir 'C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\data\userData\voiceTemp'"
+[03:31:33.403 - error] <upload data> request result, path: "/api/tls/picReport", status: 200, res: "{"result":1}"
+[10:40:41.926 - error] <www> server start...
+[10:40:42.026 - error] <cmd> error, code: 210701201918, errno: undefined, msg: "/hmi/bin/projectParser is not exists", stack: "Error: /hmi/bin/projectParser is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\projectParser.js:12:45)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\index.js:9:23)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[10:40:42.519 - error] <ffmpeg> error, code: 20220909, errno: undefined, msg: "/hmi/bin/amrwb-dec is not exists", stack: "Error: /hmi/bin/amrwb-dec is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\ffmpeg.js:12:41)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\components\voice\route.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[10:40:42.576 - error] <ts.voice.startup> rm voice temp error:"ENOENT: no such file or directory, scandir 'C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\data\userData\voiceTemp'"
+[10:40:46.413 - error] <locater> req error: {errno:-3008, code:"ENOTFOUND", syscall:"getaddrinfo", hostname:"cloud.haiwell.com"}
+[10:40:46.436 - error] <upload data> request /api/tls/picReport error, message: "getaddrinfo ENOTFOUND cloud.haiwell.com"
+[10:40:46.436 - error] <upload data> request /api/tls/picReport error, stack: "Error: getaddrinfo ENOTFOUND cloud.haiwell.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)"
+[10:40:46.436 - error] <upload data> request /api/tls/picReport error, error: %e [object Error]
+[10:40:49.238 - note] <tcp-server> tcp connect count: 1
+[11:16:29.683 - error] <www> server start...
+[11:16:29.763 - error] <cmd> error, code: 210701201918, errno: undefined, msg: "/hmi/bin/projectParser is not exists", stack: "Error: /hmi/bin/projectParser is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\projectParser.js:12:45)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\index.js:9:23)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[11:16:30.191 - error] <ffmpeg> error, code: 20220909, errno: undefined, msg: "/hmi/bin/amrwb-dec is not exists", stack: "Error: /hmi/bin/amrwb-dec is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\ffmpeg.js:12:41)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\components\voice\route.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[11:16:30.248 - error] <ts.voice.startup> rm voice temp error:"ENOENT: no such file or directory, scandir 'C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\data\userData\voiceTemp'"
+[11:16:33.286 - error] <upload data> request result, path: "/api/tls/picReport", status: 200, res: "{"result":1}"
+[11:22:46.083 - error] <www> server start...
+[11:22:46.155 - error] <cmd> error, code: 210701201918, errno: undefined, msg: "/hmi/bin/projectParser is not exists", stack: "Error: /hmi/bin/projectParser is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\projectParser.js:12:45)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\index.js:9:23)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[11:22:46.588 - error] <ffmpeg> error, code: 20220909, errno: undefined, msg: "/hmi/bin/amrwb-dec is not exists", stack: "Error: /hmi/bin/amrwb-dec is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\ffmpeg.js:12:41)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\components\voice\route.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[11:22:46.641 - error] <ts.voice.startup> rm voice temp error:"ENOENT: no such file or directory, scandir 'C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\data\userData\voiceTemp'"
+[11:22:48.753 - note] <tcp-server> tcp connect count: 1
+[11:24:09.644 - error] <www> server start...
+[11:24:09.723 - error] <cmd> error, code: 210701201918, errno: undefined, msg: "/hmi/bin/projectParser is not exists", stack: "Error: /hmi/bin/projectParser is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\projectParser.js:12:45)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\index.js:9:23)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[11:24:10.146 - error] <ffmpeg> error, code: 20220909, errno: undefined, msg: "/hmi/bin/amrwb-dec is not exists", stack: "Error: /hmi/bin/amrwb-dec is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\ffmpeg.js:12:41)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\components\voice\route.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[11:24:10.197 - error] <ts.voice.startup> rm voice temp error:"ENOENT: no such file or directory, scandir 'C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\data\userData\voiceTemp'"
+[11:24:12.257 - note] <tcp-server> tcp connect count: 1
+[11:24:12.364 - error] <initstat> ""C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\bin\initstat.sh" C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\config\setup.ini MACHINE machine_name Scada" error: {code:1, killed:false, signal:null, cmd:""C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\bin\initstat.sh" C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\config\setup.ini MACHINE machine_name Scada"}
+[11:24:12.364 - error] <initstat> ""C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\bin\initstat.sh" C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\config\setup.ini MACHINE machine_name Scada" stderr: "'"C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\bin\initstat.sh"' is not recognized as an internal or external command,
+operable program or batch file.
+"
+[11:24:12.426 - note] <serverResondEventList> socket disconnect
+[11:24:13.761 - error] <upload data> request result, path: "/api/tls/picReport", status: 200, res: "{"result":1}"
+[11:26:38.121 - error] <www> server start...
+[11:26:38.204 - error] <cmd> error, code: 210701201918, errno: undefined, msg: "/hmi/bin/projectParser is not exists", stack: "Error: /hmi/bin/projectParser is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\projectParser.js:12:45)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\index.js:9:23)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[11:26:38.671 - error] <ffmpeg> error, code: 20220909, errno: undefined, msg: "/hmi/bin/amrwb-dec is not exists", stack: "Error: /hmi/bin/amrwb-dec is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\ffmpeg.js:12:41)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\components\voice\route.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[11:26:38.741 - error] <ts.voice.startup> rm voice temp error:"ENOENT: no such file or directory, scandir 'C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\data\userData\voiceTemp'"
+[11:26:43.184 - error] <upload data> request result, path: "/api/tls/picReport", status: 200, res: "{"result":1}"
+[13:13:47.257 - error] <www> server start...
+[13:13:47.931 - error] <cmd> error, code: 210701201918, errno: undefined, msg: "/hmi/bin/projectParser is not exists", stack: "Error: /hmi/bin/projectParser is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\projectParser.js:12:45)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\index.js:9:23)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[13:13:54.803 - error] <ffmpeg> error, code: 20220909, errno: undefined, msg: "/hmi/bin/amrwb-dec is not exists", stack: "Error: /hmi/bin/amrwb-dec is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\ffmpeg.js:12:41)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\components\voice\route.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[13:13:55.388 - error] <ts.voice.startup> rm voice temp error:"ENOENT: no such file or directory, scandir 'C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\data\userData\voiceTemp'"
+[13:14:05.681 - note] <tcp-server> tcp connect count: 1
+[21:16:08.120 - error] <www> server start...
+[21:16:08.651 - error] <cmd> error, code: 210701201918, errno: undefined, msg: "/hmi/bin/projectParser is not exists", stack: "Error: /hmi/bin/projectParser is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\projectParser.js:12:45)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\index.js:9:23)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[21:16:15.308 - error] <ffmpeg> error, code: 20220909, errno: undefined, msg: "/hmi/bin/amrwb-dec is not exists", stack: "Error: /hmi/bin/amrwb-dec is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\ffmpeg.js:12:41)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\components\voice\route.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[21:16:15.892 - error] <ts.voice.startup> rm voice temp error:"ENOENT: no such file or directory, scandir 'C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\data\userData\voiceTemp'"
+[21:16:25.485 - note] <tcp-server> tcp connect count: 1
+[21:50:33.848 - error] <www> server start...
+[21:50:33.968 - error] <cmd> error, code: 210701201918, errno: undefined, msg: "/hmi/bin/projectParser is not exists", stack: "Error: /hmi/bin/projectParser is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\projectParser.js:12:45)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\index.js:9:23)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[21:50:35.281 - error] <ffmpeg> error, code: 20220909, errno: undefined, msg: "/hmi/bin/amrwb-dec is not exists", stack: "Error: /hmi/bin/amrwb-dec is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\ffmpeg.js:12:41)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\components\voice\route.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[21:50:35.455 - error] <ts.voice.startup> rm voice temp error:"ENOENT: no such file or directory, scandir 'C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\data\userData\voiceTemp'"
+[21:50:38.880 - note] <tcp-server> tcp connect count: 1
+[22:00:55.218 - error] <www> server start...
+[22:00:55.313 - error] <cmd> error, code: 210701201918, errno: undefined, msg: "/hmi/bin/projectParser is not exists", stack: "Error: /hmi/bin/projectParser is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\projectParser.js:12:45)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\index.js:9:23)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[22:00:56.098 - error] <ffmpeg> error, code: 20220909, errno: undefined, msg: "/hmi/bin/amrwb-dec is not exists", stack: "Error: /hmi/bin/amrwb-dec is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\ffmpeg.js:12:41)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\components\voice\route.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[22:00:56.224 - error] <ts.voice.startup> rm voice temp error:"ENOENT: no such file or directory, scandir 'C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\data\userData\voiceTemp'"
+[22:01:00.243 - note] <tcp-server> tcp connect count: 1
+[22:26:42.432 - error] <www> server start...
+[22:26:42.529 - error] <cmd> error, code: 210701201918, errno: undefined, msg: "/hmi/bin/projectParser is not exists", stack: "Error: /hmi/bin/projectParser is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\projectParser.js:12:45)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\index.js:9:23)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[22:26:43.340 - error] <ffmpeg> error, code: 20220909, errno: undefined, msg: "/hmi/bin/amrwb-dec is not exists", stack: "Error: /hmi/bin/amrwb-dec is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\ffmpeg.js:12:41)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\components\voice\route.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[22:26:43.448 - error] <ts.voice.startup> rm voice temp error:"ENOENT: no such file or directory, scandir 'C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\data\userData\voiceTemp'"
+[22:26:48.102 - error] <upload data> request result, path: "/api/tls/picReport", status: 200, res: "{"result":1}"
+[22:26:49.365 - note] <tcp-server> tcp connect count: 1
+[22:27:59.976 - error] <www> server start...
+[22:28:00.084 - error] <cmd> error, code: 210701201918, errno: undefined, msg: "/hmi/bin/projectParser is not exists", stack: "Error: /hmi/bin/projectParser is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\projectParser.js:12:45)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\index.js:9:23)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[22:28:01.471 - error] <ffmpeg> error, code: 20220909, errno: undefined, msg: "/hmi/bin/amrwb-dec is not exists", stack: "Error: /hmi/bin/amrwb-dec is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\ffmpeg.js:12:41)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\components\voice\route.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[22:28:01.609 - error] <ts.voice.startup> rm voice temp error:"ENOENT: no such file or directory, scandir 'C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\data\userData\voiceTemp'"
+[22:28:04.789 - note] <tcp-server> tcp connect count: 1
+[22:28:05.401 - error] <initstat> ""C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\bin\initstat.sh" C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\config\setup.ini MACHINE machine_name Scada" error: {code:1, killed:false, signal:null, cmd:""C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\bin\initstat.sh" C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\config\setup.ini MACHINE machine_name Scada"}
+[22:28:05.402 - error] <initstat> ""C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\bin\initstat.sh" C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\config\setup.ini MACHINE machine_name Scada" stderr: "'"C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\bin\initstat.sh"' is not recognized as an internal or external command,
+operable program or batch file.
+"
+[22:28:05.423 - note] <serverResondEventList> socket disconnect
+[22:28:13.547 - error] <upload data> request result, path: "/api/tls/picReport", status: 200, res: "{"result":1}"
+[22:29:43.503 - error] <www> server start...
+[22:29:43.596 - error] <cmd> error, code: 210701201918, errno: undefined, msg: "/hmi/bin/projectParser is not exists", stack: "Error: /hmi/bin/projectParser is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\projectParser.js:12:45)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\index.js:9:23)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[22:29:44.380 - error] <ffmpeg> error, code: 20220909, errno: undefined, msg: "/hmi/bin/amrwb-dec is not exists", stack: "Error: /hmi/bin/amrwb-dec is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\ffmpeg.js:12:41)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\components\voice\route.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[22:29:44.492 - error] <ts.voice.startup> rm voice temp error:"ENOENT: no such file or directory, scandir 'C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\data\userData\voiceTemp'"
+[22:29:47.540 - note] <tcp-server> tcp connect count: 1
+[22:29:48.028 - error] <initstat> ""C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\bin\initstat.sh" C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\config\setup.ini MACHINE machine_name Scada" error: {code:1, killed:false, signal:null, cmd:""C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\bin\initstat.sh" C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\config\setup.ini MACHINE machine_name Scada"}
+[22:29:48.029 - error] <initstat> ""C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\bin\initstat.sh" C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\config\setup.ini MACHINE machine_name Scada" stderr: "'"C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\bin\initstat.sh"' is not recognized as an internal or external command,
+operable program or batch file.
+"
+[22:29:48.086 - note] <serverResondEventList> socket disconnect
+[22:29:48.561 - error] <upload data> request result, path: "/api/tls/picReport", status: 200, res: "{"result":1}"
+[22:31:04.360 - error] <www> server start...
+[22:31:04.453 - error] <cmd> error, code: 210701201918, errno: undefined, msg: "/hmi/bin/projectParser is not exists", stack: "Error: /hmi/bin/projectParser is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\projectParser.js:12:45)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\index.js:9:23)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[22:31:05.238 - error] <ffmpeg> error, code: 20220909, errno: undefined, msg: "/hmi/bin/amrwb-dec is not exists", stack: "Error: /hmi/bin/amrwb-dec is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\ffmpeg.js:12:41)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\components\voice\route.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[22:31:05.349 - error] <ts.voice.startup> rm voice temp error:"ENOENT: no such file or directory, scandir 'C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\data\userData\voiceTemp'"
+[22:31:08.616 - error] <upload data> request result, path: "/api/tls/picReport", status: 200, res: "{"result":1}"
+[22:37:35.250 - error] <www> server start...
+[22:37:35.341 - error] <cmd> error, code: 210701201918, errno: undefined, msg: "/hmi/bin/projectParser is not exists", stack: "Error: /hmi/bin/projectParser is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\projectParser.js:12:45)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\index.js:9:23)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[22:37:36.112 - error] <ffmpeg> error, code: 20220909, errno: undefined, msg: "/hmi/bin/amrwb-dec is not exists", stack: "Error: /hmi/bin/amrwb-dec is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\ffmpeg.js:12:41)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\components\voice\route.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[22:37:36.227 - error] <ts.voice.startup> rm voice temp error:"ENOENT: no such file or directory, scandir 'C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\data\userData\voiceTemp'"
+[22:37:39.057 - note] <tcp-server> tcp connect count: 1

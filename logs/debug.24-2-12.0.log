@@ -1,0 +1,54 @@
+[14:52:39.450 - error] <www> server start...
+[14:52:40.206 - error] <cmd> error, code: 210701201918, errno: undefined, msg: "/hmi/bin/projectParser is not exists", stack: "Error: /hmi/bin/projectParser is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\projectParser.js:12:45)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\index.js:9:23)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[14:52:50.190 - error] <ffmpeg> error, code: 20220909, errno: undefined, msg: "/hmi/bin/amrwb-dec is not exists", stack: "Error: /hmi/bin/amrwb-dec is not exists
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\cmd\ffmpeg.js:12:41)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1175:10)
+    at Module.load (node:internal/modules/cjs/loader:988:32)
+    at Module._load (node:internal/modules/cjs/loader:829:12)
+    at c._load (node:electron/js2c/asar_bundle:5:13343)
+    at Module.require (node:internal/modules/cjs/loader:1012:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at Object.<anonymous> (C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\webserver\ts\dest\components\voice\route.js:10:16)
+    at Module._compile (node:internal/modules/cjs/loader:1120:14)"
+[14:52:50.885 - error] <ts.voice.startup> rm voice temp error:"ENOENT: no such file or directory, scandir 'C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\data\userData\voiceTemp'"
+[14:52:56.675 - error] <locater> req error: {errno:-3008, code:"ENOTFOUND", syscall:"getaddrinfo", hostname:"cloud.haiwell.com"}
+[14:52:56.705 - error] <upload data> request /api/tls/picReport error, message: "getaddrinfo ENOTFOUND cloud.haiwell.com"
+[14:52:56.705 - error] <upload data> request /api/tls/picReport error, stack: "Error: getaddrinfo ENOTFOUND cloud.haiwell.com
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)"
+[14:52:56.705 - error] <upload data> request /api/tls/picReport error, error: %e [object Error]
+[14:52:58.359 - note] <tcp-server> tcp connect count: 1
+[14:52:58.681 - error] <initstat> ""C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\bin\initstat.sh" C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\config\setup.ini MACHINE machine_name Scada" error: {code:1, killed:false, signal:null, cmd:""C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\bin\initstat.sh" C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\config\setup.ini MACHINE machine_name Scada"}
+[14:52:58.682 - error] <initstat> ""C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\bin\initstat.sh" C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\config\setup.ini MACHINE machine_name Scada" stderr: "'"C:\Program Files (x86)\Haiwell\HaiwellScada3\resources\app\bin\initstat.sh"' is not recognized as an internal or external command,
+operable program or batch file.
+"
+[14:52:59.746 - note] <serverResondEventList> socket disconnect
+[14:53:00.322 - error] <ts-user> pushUserGoupInfo-error:{errno:-3008, code:"ENOTFOUND", syscall:"getaddrinfo", hostname:"cloud.haiwell.com"}
+[14:53:56.690 - error] <locater> req error: {errno:-3008, code:"ENOTFOUND", syscall:"getaddrinfo", hostname:"cloud.haiwell.com"}
+[14:54:56.701 - error] <locater> req error: {errno:-3008, code:"ENOTFOUND", syscall:"getaddrinfo", hostname:"cloud.haiwell.com"}
+[14:55:56.715 - error] <locater> req error: {errno:-3008, code:"ENOTFOUND", syscall:"getaddrinfo", hostname:"cloud.haiwell.com"}
+[14:56:56.735 - error] <locater> req error: {errno:-3008, code:"ENOTFOUND", syscall:"getaddrinfo", hostname:"cloud.haiwell.com"}
+[14:57:56.750 - error] <locater> req error: {errno:-3008, code:"ENOTFOUND", syscall:"getaddrinfo", hostname:"cloud.haiwell.com"}
+[14:58:56.764 - error] <locater> req error: {errno:-3008, code:"ENOTFOUND", syscall:"getaddrinfo", hostname:"cloud.haiwell.com"}
+[14:59:56.783 - error] <locater> req error: {errno:-3008, code:"ENOTFOUND", syscall:"getaddrinfo", hostname:"cloud.haiwell.com"}
+[15:00:56.800 - error] <locater> req error: {errno:-3008, code:"ENOTFOUND", syscall:"getaddrinfo", hostname:"cloud.haiwell.com"}
+[15:01:56.817 - error] <locater> req error: {errno:-3008, code:"ENOTFOUND", syscall:"getaddrinfo", hostname:"cloud.haiwell.com"}
+[15:02:56.825 - error] <locater> req error: {errno:-3008, code:"ENOTFOUND", syscall:"getaddrinfo", hostname:"cloud.haiwell.com"}
+[15:03:56.848 - error] <locater> req error: {errno:-3008, code:"ENOTFOUND", syscall:"getaddrinfo", hostname:"cloud.haiwell.com"}
+[15:04:56.866 - error] <locater> req error: {errno:-3008, code:"ENOTFOUND", syscall:"getaddrinfo", hostname:"cloud.haiwell.com"}
+[15:05:56.893 - error] <locater> req error: {errno:-3008, code:"ENOTFOUND", syscall:"getaddrinfo", hostname:"cloud.haiwell.com"}
+[15:06:56.910 - error] <locater> req error: {errno:-3008, code:"ENOTFOUND", syscall:"getaddrinfo", hostname:"cloud.haiwell.com"}
+[15:07:56.936 - error] <locater> req error: {errno:-3008, code:"ENOTFOUND", syscall:"getaddrinfo", hostname:"cloud.haiwell.com"}
+[15:08:56.950 - error] <locater> req error: {errno:-3008, code:"ENOTFOUND", syscall:"getaddrinfo", hostname:"cloud.haiwell.com"}
+[15:09:56.964 - error] <locater> req error: {errno:-3008, code:"ENOTFOUND", syscall:"getaddrinfo", hostname:"cloud.haiwell.com"}
+[15:10:57.003 - error] <locater> req error: {errno:-3008, code:"ENOTFOUND", syscall:"getaddrinfo", hostname:"cloud.haiwell.com"}
